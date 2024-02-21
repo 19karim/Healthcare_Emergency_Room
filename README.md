@@ -1,10 +1,10 @@
 **Power BI Dashboard **
 
-**Overview:**
+**Overview**
 
 This repository contains data related to patient records that has been transformed and visualized using Power BI. The data includes information such as patient demographics, satisfaction scores, and department referrals. The Power BI dashboard is created using Power Query for data transformation and loading, Power Pivot for creating measures using DAX expressions, and data modeling to establish relationships between different attributes.
 
-**Dataset:**
+**Dataset**
 
 The dataset consists of the following columns:
 
@@ -31,7 +31,7 @@ Power Pivot has been employed to create measures using DAX (Data Analysis Expres
 **Data Modelling:**
 Data modeling is a crucial aspect of the Power BI dashboard creation process. Relationships have been established between different attributes to enable seamless navigation and analysis. For example, a relationship may exist between patient demographics and department referrals, allowing users to analyze the distribution of referrals based on patient characteristics.
 
-**Dashboard Visualizations:**
+**Dashboard Visualizations**
 
 The Power BI dashboard includes various visualizations such as charts, tables, and graphs that provide insights into the patient data. Some of the key visualizations may include:
 
