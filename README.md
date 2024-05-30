@@ -11,7 +11,7 @@
 
 
 
-### Dataset  
+### Dataset:
 - date: The date and time of the patient record entry.   
   
 
@@ -42,7 +42,7 @@
 
 
 
-### Usage  
+### Usage:  
 - patient_race: Race of the patient. 
   
   
@@ -60,7 +60,7 @@
 
 
 
-### Power BI Components  
+### Power BI Components: 
 - Power Query: Power Query has been utilized to transform and load the data into Power BI. The data cleaning and transformation steps include handling missing values, formatting dates, and ensuring data consistency. These steps ensure that the data is ready for analysis and visualization.  
   
 
@@ -72,7 +72,7 @@
 
 
 
-### Dashboard Visualizations  
+### Dashboard Visualizations:  
 - Matrix- Avg. Satisfaction & Avg. Wait Time: Displays average satisfaction scores and wait times.  
   
 
