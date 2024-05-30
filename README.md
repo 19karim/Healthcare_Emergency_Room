@@ -6,7 +6,7 @@
 
 
 ### Healthcare Emergency Room  
-### This repository contains data related to patient records that has been transformed and visualized using Power BI. The data includes information such as patient demographics, satisfaction scores, and department referrals. The Power BI dashboard is created using Power Query for data transformation and loading, Power Pivot for creating measures using DAX expressions, and data modeling to establish relationships between different attributes.  
+### This repository contains data related to patient records that has been transformed and visualized using Power BI. The data includes information such as patient demographics, satisfaction scores, and department referrals. The Power BI dashboard is created using Power Query for data transformation and loading, Power Pivot for creating measures using DAX expressions, and data modeling to establish relationships between different attributes. 
   
 
 
